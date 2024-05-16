@@ -1,6 +1,5 @@
 import React from "react";
 class Test extends React.Component{
-    // 数据
     constructor() {
         super();
         this.state = {
